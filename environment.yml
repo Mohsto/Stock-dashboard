@@ -1,0 +1,11 @@
+name: stock-dashboard
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - yfinance
+  - plotly
+  - dash
+  - jupyter-dash
+  - notebook
