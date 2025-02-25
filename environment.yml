@@ -9,3 +9,4 @@ dependencies:
   - dash
   - jupyter-dash
   - notebook
+  - ipykernel
