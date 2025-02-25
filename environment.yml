@@ -10,3 +10,4 @@ dependencies:
   - jupyter-dash
   - notebook
   - ipykernel
+  - nb_conda
