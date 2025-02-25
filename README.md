@@ -2,7 +2,7 @@
 
 This Jupyter Notebook fetches real-time stock market data using **Yahoo Finance API** and visualizes trends with **Plotly Dash**.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mohsto/Stock-dashboard/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FMohsto%2FStock-dashboard/HEAD?urlpath=%2Fdoc%2Ftree%2FDashboard.ipynb)
 
 ## Features:
 ✅ Fetches real-time stock prices  
