@@ -1,0 +1,9 @@
+pandas
+yfinance
+plotly
+dash
+jupyter-dash
+notebook
+ipykernel
+jupyterlab
+dash-bootstrap-components
